@@ -7,6 +7,7 @@ def my_each(array)
     end
   else
     puts "Nothing in the array"
+  en
 end
 
 def print_item(array, index_spot)
