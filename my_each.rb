@@ -6,7 +6,7 @@ def my_each(array)
       i = i + 1
     end
   else
-    puts "Nothing in the array"
+    "Nothing in the array"
   end
 end
 
