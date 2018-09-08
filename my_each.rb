@@ -1,5 +1,6 @@
 def my_each(array)
   i = 0 
+  if array != []
   while i < array.length
     yield(print_item(array, i))
     i = i + 1
